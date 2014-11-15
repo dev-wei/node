@@ -67,3 +67,5 @@ deps/zlib/zlib.target.mk
 
 # test artifacts
 tools/faketime
+
+idea
